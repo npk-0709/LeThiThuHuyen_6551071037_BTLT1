@@ -1,0 +1,15 @@
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\MaTranSoHoc\MaTranSoHoc\bin\Debug\net10.0\MaTranSoHoc.exe
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\MaTranSoHoc\MaTranSoHoc\bin\Debug\net10.0\MaTranSoHoc.deps.json
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\MaTranSoHoc\MaTranSoHoc\bin\Debug\net10.0\MaTranSoHoc.runtimeconfig.json
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\MaTranSoHoc\MaTranSoHoc\bin\Debug\net10.0\MaTranSoHoc.dll
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\MaTranSoHoc\MaTranSoHoc\bin\Debug\net10.0\MaTranSoHoc.pdb
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\MaTranSoHoc\MaTranSoHoc\obj\Debug\net10.0\MaTranSoHoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\MaTranSoHoc\MaTranSoHoc\obj\Debug\net10.0\MaTranSoHoc.AssemblyInfoInputs.cache
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\MaTranSoHoc\MaTranSoHoc\obj\Debug\net10.0\MaTranSoHoc.AssemblyInfo.cs
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\MaTranSoHoc\MaTranSoHoc\obj\Debug\net10.0\MaTranSoHoc.csproj.CoreCompileInputs.cache
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\MaTranSoHoc\MaTranSoHoc\obj\Debug\net10.0\MaTranSoHoc.sourcelink.json
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\MaTranSoHoc\MaTranSoHoc\obj\Debug\net10.0\MaTranSoHoc.dll
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\MaTranSoHoc\MaTranSoHoc\obj\Debug\net10.0\refint\MaTranSoHoc.dll
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\MaTranSoHoc\MaTranSoHoc\obj\Debug\net10.0\MaTranSoHoc.pdb
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\MaTranSoHoc\MaTranSoHoc\obj\Debug\net10.0\MaTranSoHoc.genruntimeconfig.cache
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\MaTranSoHoc\MaTranSoHoc\obj\Debug\net10.0\ref\MaTranSoHoc.dll

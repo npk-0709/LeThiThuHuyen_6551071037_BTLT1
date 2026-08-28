@@ -1,0 +1,15 @@
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\QuanLySinhVien\QuanLySinhVien\bin\Debug\net10.0\QuanLySinhVien.exe
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\QuanLySinhVien\QuanLySinhVien\bin\Debug\net10.0\QuanLySinhVien.deps.json
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\QuanLySinhVien\QuanLySinhVien\bin\Debug\net10.0\QuanLySinhVien.runtimeconfig.json
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\QuanLySinhVien\QuanLySinhVien\bin\Debug\net10.0\QuanLySinhVien.dll
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\QuanLySinhVien\QuanLySinhVien\bin\Debug\net10.0\QuanLySinhVien.pdb
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\QuanLySinhVien\QuanLySinhVien\obj\Debug\net10.0\QuanLySinhVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\QuanLySinhVien\QuanLySinhVien\obj\Debug\net10.0\QuanLySinhVien.AssemblyInfoInputs.cache
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\QuanLySinhVien\QuanLySinhVien\obj\Debug\net10.0\QuanLySinhVien.AssemblyInfo.cs
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\QuanLySinhVien\QuanLySinhVien\obj\Debug\net10.0\QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\QuanLySinhVien\QuanLySinhVien\obj\Debug\net10.0\QuanLySinhVien.sourcelink.json
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\QuanLySinhVien\QuanLySinhVien\obj\Debug\net10.0\QuanLySinhVien.dll
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\QuanLySinhVien\QuanLySinhVien\obj\Debug\net10.0\refint\QuanLySinhVien.dll
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\QuanLySinhVien\QuanLySinhVien\obj\Debug\net10.0\QuanLySinhVien.pdb
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\QuanLySinhVien\QuanLySinhVien\obj\Debug\net10.0\QuanLySinhVien.genruntimeconfig.cache
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\15\QuanLySinhVien\QuanLySinhVien\obj\Debug\net10.0\ref\QuanLySinhVien.dll

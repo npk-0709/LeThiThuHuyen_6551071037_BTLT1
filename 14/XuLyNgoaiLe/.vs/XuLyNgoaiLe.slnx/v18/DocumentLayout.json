@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Khuong\\Desktop\\ThuHuyen\\LeThiThuHuyen_6551071037_BTLT1\\14\\XuLyNgoaiLe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C401F3E2-B302-495B-905D-A2668D29CFAF}|XuLyNgoaiLe\\XuLyNgoaiLe.csproj|c:\\users\\khuong\\desktop\\thuhuyen\\lethithuhuyen_6551071037_btlt1\\14\\xulyngoaile\\xulyngoaile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C401F3E2-B302-495B-905D-A2668D29CFAF}|XuLyNgoaiLe\\XuLyNgoaiLe.csproj|solutionrelative:xulyngoaile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Khuong\\Desktop\\ThuHuyen\\LeThiThuHuyen_6551071037_BTLT1\\14\\XuLyNgoaiLe\\XuLyNgoaiLe\\Program.cs",
+              "RelativeDocumentMoniker": "XuLyNgoaiLe\\Program.cs",
+              "ToolTip": "C:\\Users\\Khuong\\Desktop\\ThuHuyen\\LeThiThuHuyen_6551071037_BTLT1\\14\\XuLyNgoaiLe\\XuLyNgoaiLe\\Program.cs",
+              "RelativeToolTip": "XuLyNgoaiLe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T04:30:49.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

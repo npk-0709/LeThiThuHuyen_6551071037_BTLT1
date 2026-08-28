@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Khuong\\Desktop\\ThuHuyen\\LeThiThuHuyen_6551071037_BTLT1\\15\\QuanLySinhVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82BA2475-7CEB-44C4-AAE2-4DC3A7019AB4}|QuanLySinhVien\\QuanLySinhVien.csproj|c:\\users\\khuong\\desktop\\thuhuyen\\lethithuhuyen_6551071037_btlt1\\15\\quanlysinhvien\\quanlysinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BA2475-7CEB-44C4-AAE2-4DC3A7019AB4}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Khuong\\Desktop\\ThuHuyen\\LeThiThuHuyen_6551071037_BTLT1\\15\\QuanLySinhVien\\QuanLySinhVien\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVien\\Program.cs",
+              "ToolTip": "C:\\Users\\Khuong\\Desktop\\ThuHuyen\\LeThiThuHuyen_6551071037_BTLT1\\15\\QuanLySinhVien\\QuanLySinhVien\\Program.cs",
+              "RelativeToolTip": "QuanLySinhVien\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T04:36:07.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

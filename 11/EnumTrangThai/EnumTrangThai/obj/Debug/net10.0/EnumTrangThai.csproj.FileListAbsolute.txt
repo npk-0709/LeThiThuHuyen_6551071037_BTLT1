@@ -1,0 +1,15 @@
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\11\EnumTrangThai\EnumTrangThai\bin\Debug\net10.0\EnumTrangThai.exe
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\11\EnumTrangThai\EnumTrangThai\bin\Debug\net10.0\EnumTrangThai.deps.json
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\11\EnumTrangThai\EnumTrangThai\bin\Debug\net10.0\EnumTrangThai.runtimeconfig.json
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\11\EnumTrangThai\EnumTrangThai\bin\Debug\net10.0\EnumTrangThai.dll
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\11\EnumTrangThai\EnumTrangThai\bin\Debug\net10.0\EnumTrangThai.pdb
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\11\EnumTrangThai\EnumTrangThai\obj\Debug\net10.0\EnumTrangThai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\11\EnumTrangThai\EnumTrangThai\obj\Debug\net10.0\EnumTrangThai.AssemblyInfoInputs.cache
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\11\EnumTrangThai\EnumTrangThai\obj\Debug\net10.0\EnumTrangThai.AssemblyInfo.cs
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\11\EnumTrangThai\EnumTrangThai\obj\Debug\net10.0\EnumTrangThai.csproj.CoreCompileInputs.cache
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\11\EnumTrangThai\EnumTrangThai\obj\Debug\net10.0\EnumTrangThai.sourcelink.json
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\11\EnumTrangThai\EnumTrangThai\obj\Debug\net10.0\EnumTrangThai.dll
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\11\EnumTrangThai\EnumTrangThai\obj\Debug\net10.0\refint\EnumTrangThai.dll
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\11\EnumTrangThai\EnumTrangThai\obj\Debug\net10.0\EnumTrangThai.pdb
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\11\EnumTrangThai\EnumTrangThai\obj\Debug\net10.0\EnumTrangThai.genruntimeconfig.cache
+C:\Users\Khuong\Desktop\ThuHuyen\LeThiThuHuyen_6551071037_BTLT1\11\EnumTrangThai\EnumTrangThai\obj\Debug\net10.0\ref\EnumTrangThai.dll
